@@ -8,7 +8,7 @@ class program62
         while(iNo != 0)
         {
             iDigit = iNo %  10;
-            System.out.println(iDigit+"\n");
+            System.out.println(iDigit+"\n ");
             iNo = iNo / 10;
         }
     }   
