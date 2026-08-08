@@ -1,0 +1,8 @@
+A.txt: 
+Hello all..
+File Size : 11 bytes
+------------------------------------------------
+B.txt: 
+Java is good programming Language
+File Size : 33 bytes
+------------------------------------------------
