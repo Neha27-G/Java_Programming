@@ -6,7 +6,7 @@ class NumberX
     {
         int iCnt = 0;
 
-        System.out.println("Elements of Array are :");
+        System.out.println("Elements of Array are:");
 
         for(iCnt = 0; iCnt < iSize; iCnt++)
         {
