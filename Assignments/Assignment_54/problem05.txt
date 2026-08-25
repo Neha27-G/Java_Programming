@@ -1,0 +1,19 @@
+A phone OS shows differnt battery warning. The user wants a program that prints the correct battery status.
+
+Rule :
+
+Battery <= 5 %  -> critical
+Battery <= 15 %  -> low
+Otherwise  -> Normal
+
+Input :
+Battery percentage(integer)
+
+Validations :
+ 0 to 100 Only
+
+Expected Output :
+
+Battery percentage : <value> %
+status : <critical/low/Normal>
+
